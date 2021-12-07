@@ -1,2 +1,1 @@
-# Awesome
-### Awesome "README"
+# Awesome README
